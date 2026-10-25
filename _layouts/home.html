@@ -1,4 +1,10 @@
 ---
 layout: default
 ---
+<nav>
+{% for item in site.data.archive %}
+<a href="{{ item.url | relative_url }}">{{ item.title }}</a>&nbsp;&nbsp;
+{% endfor %}
+</nav>
+
 {{ content }}
