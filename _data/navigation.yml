@@ -1,4 +1,5 @@
-- title: Blog
-  url: /
 - title: H0 anisotropy
   url: /anisotropy/
+- title: Filters Calibration
+  url: /calibration/
+
