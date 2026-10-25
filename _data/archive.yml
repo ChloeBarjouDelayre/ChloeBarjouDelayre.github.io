@@ -7,6 +7,9 @@
 - type: Publications
   title: Publications
   url: /Publications/
+- type: Talks
+  title: Talks
+  url: /Talks/
 - type: Observations
   title: Telescope Observations
   url: /Observations/
