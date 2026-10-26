@@ -9,9 +9,9 @@ This a short version of my resume. The full CV is downloadable in [PDF]({{ site.
 
 ### Research
 ---
-<p style="margin-top:0.3cm;"> <strong> PhD student - Laboratoire de Physique Clermont Auvergne, France </strong>
+<p style="margin-top:0.3cm;"> <strong> PhD Thesis - Laboratoire de Physique Clermont Auvergne, France </strong>
 <br> Clermont Ferrand, FR, October 2023 - September 2026 
-<br> Advisor: Philippe Rosner and Corentin Ravoux </p>
+<br> Advisor: Philippe Rosnet and Corentin Ravoux </p>
 
 * Study H0 anisotropy from Zwicky Transient Facility (ZTF) survey
 * Calibrate synthetic filter model of ZTF
