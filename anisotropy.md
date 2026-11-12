@@ -21,4 +21,6 @@ The cosmological principle assumes the isotropy of the Universe at large scales.
 </div>
 <p style="font-size:0.9rem; opacity:.8;">Recovery of a 3 km s⁻¹ Mpc⁻¹ dipole injected into realistic simulations of the ZTF DR2 supernova sample. <a href="https://arxiv.org/abs/2601.11139">arXiv:2601.11139</a></p>
 
-![Description de la figure]({{ site.baseurl }}/assets/diffsyst.png)
+![Summarize the systematics based on their effects on the difference between the input and output values of the three dipole parameters. From left to right, the results are shown for the dipole amplitude in km/s/Mpc, then for the right ascension in degrees, and finally for the declination, also in degrees. A vertical black line on each panel serves as a zero reference. ]({{ site.baseurl }}/assets/diffsyst.png)
+
+
