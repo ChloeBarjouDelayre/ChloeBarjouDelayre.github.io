@@ -21,7 +21,10 @@ The cosmological principle assumes the isotropy of the Universe at large scales.
 </div>
 <p style="font-size:0.9rem; opacity:.8;">Recovery of a 3 km s⁻¹ Mpc⁻¹ dipole injected into realistic simulations of the ZTF DR2 supernova sample. <a href="https://arxiv.org/abs/2601.11139">arXiv:2601.11139</a></p>
 
-![Summarize the systematics based on their effects on the difference between the input and output values of the three dipole parameters. From left to right, the results are shown for the dipole amplitude in km/s/Mpc, then for the right ascension in degrees, and finally for the declination, also in degrees. A vertical black line on each panel serves as a zero reference. ]({{ site.baseurl }}/assets/diffsyst.png)
+<figure>
+  <img src="{{ site.baseurl }}/assets/diffsyst.png" alt="Systematic effects on dipole parameters">
+  <figcaption>Comparison of systematic effects on the dipole amplitude (km/s/Mpc), right ascension (°) and declination (°). The vertical black line is the zero reference.</figcaption>
+</figure>
 
 Several systematic approaches were studied. Among them, the use of different dustmaps made it possible to observe their impact on the measurement. Two different dust maps were used: the Planck2013 map and the SFDMaps. The results of using an older, and therefore less accurate, map are shown in the figure above; we can see that, on average, it is more difficult to recover the initial amplitude in this case. Another of the key systematics I tested was sky coverage, I tested it by producing different versions of the ZTF simulations. In particular, I tested the impact of removing the southern sky or the Milky Way and the impact of the ZTF cadence. This analysis suggests that the method is not affected by the sky coverage while the cadence of observations introduces a small bias as a function of the dipole direction. All of these systematic studies have made it possible to develop an error model that accounts for both statistical and systematic errors.
 
