@@ -16,5 +16,5 @@ In order to create a model that is as realistic as possible, I verified the qual
 
 <figure>
   <img src="{{ site.baseurl }}/assets/TCBPsetup.png" alt="">
-  <figcaption>The left panel show cutaway view of the Samuel Oschin Telescope highlighting ZTF subsystem with a transmission mesurement. Illustration from <a href="https://ui.adsabs.harvard.edu/abs/2020PASP..132c8001D/abstract">Dekany et al</a>. The right panel contains an illustration of the camera with the different layer of CCD. </figcaption>
+  <figcaption>The top panel shows a schematic of the Traveling Collimated Beam Projector full setup. In the bottom panel the TCBP setup : integrating sphere at the back of the TCBP telescope on the right, ZTF telescope on the left. Images from Van den Abeele et al in prep.</figcaption>
 </figure>
