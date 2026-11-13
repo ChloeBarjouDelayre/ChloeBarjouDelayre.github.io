@@ -6,7 +6,7 @@ title: H₀ anisotropy
 The cosmological principle assumes the isotropy of the Universe at large scales. Recent disagreements with the standard model motivate the investigation of possible anisotropies in the Universe. A possible anisotropy could be observed in the Hubble constant: H₀. My research work focused on creating a method to measure this anisotropy in the Zwicky Transient Facility (ZTF) type Ia Supernovae (SN Ia) sample. The large footprint and efficient sampling of ZTF allow for a H₀ anisotropy measurement with unprecedented precision. I started by focusing on the simplest version of a multipole which can reproduce anisotropy, a dipole. A dipole is a preferred axis; a figure representing a dipole with an amplitude of 3 km/s/Mpc is shown below. In this figure, the effect of this preferred axis is depicted across the entire sky. The goal was to develop an original method capable of fitting a dipole to the data. To develop this, I used realistic ZTF simulations and introduced a known dipole (with an amplitude of 3 km/s/Mpc) into these simulations in order to construct a likelihood function that would allow us to recover this initial dipole. To achieve this, 27 independent simulations were used, and 48 different dipole positions were tested. 
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/Initial_dipole.png" alt="Introduced dipole">
+  <img src="{{ site.baseurl }}/assets/Inital_dipole.png" alt="Introduced dipole">
   <figcaption>Skymap colored following the amplitude of the dipole in red stars representing the initial dipole direction (α0 = 90.0◦, δ0 = 19.47◦) of an amplitude of 3 km/s/Mpc.</figcaption>
 </figure>
 
