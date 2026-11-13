@@ -7,7 +7,7 @@ math: true
 For precision cosmology, accurate photometry of the observations is required. Consequently, I worked on creating a realistic model for the ZTF filter. This model, called synthetic filters, takes into account all the optics of the ZTF telescope, the real angle of incidence of the light, and the difference between the two types of CCD in ZTF (single coating and double coating) show in the figure below.
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/optics_cam_telescop.jpeg" alt="Systematic effects on dipole parameters">
+  <img src="{{ site.baseurl }}/assets/optics_cam_telescop.jpg" alt="Systematic effects on dipole parameters">
   <figcaption>The left panel show cutaway view of the Samuel Oschin Telescope highlighting ZTF subsystem with a transmission mesurement. Illustration from Dekany et al. The right panel contains an illustration of the camera with the different layer of CCD. </figcaption>
 </figure>
 
