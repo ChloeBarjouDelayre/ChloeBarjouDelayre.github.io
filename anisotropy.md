@@ -7,7 +7,7 @@ The cosmological principle assumes the isotropy of the Universe at large scales.
 
 <figure>
   <img src="{{ site.baseurl }}/assets/Inital_dipole.png" alt="Introduced dipole">
-  <figcaption>Skymap colored following the amplitude of the dipole in red stars representing the initial dipole direction (α0 = 90.0◦, δ0 = 19.47◦) of an amplitude of 3 km/s/Mpc.</figcaption>
+  <figcaption>Skymap colored following the amplitude of the dipole in red stars representing the initial dipole direction (α0 = 90.0°, δ0 = 19.47°) of an amplitude of 3 km/s/Mpc.</figcaption>
 </figure>
 
 Several systematic approaches were studied, they are all summarized in the figures below. Among them, the use of different dustmaps made it possible to observe their impact on the measurement. Two different dust maps were used: the Planck2013 map and the SFDMaps. The results of using an older, and therefore less accurate, map are shown in the figure above; we can see that, on average, it is more difficult to recover the initial amplitude in this case. Another of the key systematics I tested was sky coverage, I tested it by producing different versions of the ZTF simulations. In particular, I tested the impact of removing the southern sky or the Milky Way and the impact of the ZTF cadence. This analysis suggests that the method is not affected by the sky coverage while the cadence of observations introduces a small bias as a function of the dipole direction.
